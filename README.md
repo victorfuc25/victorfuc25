@@ -1,8 +1,8 @@
 # sobre eu
 
 
-👋 👍 opa ,meu name é @victorfuc25 👍
-- 👀 estou interessado em  algm ae 💚
+👋 👍 meu name é @victorfuc25 👍
+- 👀 estou interessado em aprender 
 - meu email de contato para interessados e victor.fuck@escola.pr.gov.br 🕶️
 - 📫 to aprendendo a programar com java e o scrhat 🌍
 
